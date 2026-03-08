@@ -1,0 +1,15 @@
+{
+  "analysis": {
+    "total_score": 9,
+    "by_category": {
+      "frontend": 3,
+      "backend": 2,
+      "database": 1,
+      "infra": 3
+    },
+    "complexity_level": "medium"
+  },
+  "recommendations": [
+    "Small team: migrate infra to serverless or managed services"
+  ]
+}

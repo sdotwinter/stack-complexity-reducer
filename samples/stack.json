@@ -1,0 +1,8 @@
+{
+  "components": [
+    {"category": "frontend", "technology": "react"},
+    {"category": "backend", "technology": "node"},
+    {"category": "database", "technology": "postgresql"},
+    {"category": "infra", "technology": "aws"}
+  ]
+}
